@@ -1,4 +1,4 @@
-# 📋 Today-I-Learned
+# Today-I-Learned
 
 ## :pencil: 규칙
 - 파일명은 `날짜_주제` 로 작성
